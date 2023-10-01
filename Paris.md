@@ -8,6 +8,7 @@
 - Catacombs
 - [Lourve](Lourve-Checklist.md)
     - Royal Palace
+    - Opera (& rooftop)
 - Pantheon
     - Luxemburg Gardens
 
