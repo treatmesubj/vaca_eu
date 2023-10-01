@@ -1,6 +1,6 @@
 # Amsterdam
 - OBA Library rooftop coffee
-- Hortus Botanicus Greenhousecapture-pane -S -3000
+- Hortus Botanicus Greenhouse
 - Free Ferry over to ADAM Lookout Skydeck
 - Walk Amsterdam 9 Streets
 - Albert Cuyp Market
@@ -10,9 +10,11 @@
 - De Gooyer Windmill
 - Begijnhoff Quick Courtyard
 - Vondelpark, Rembrandtpark
+- Rijksmuseum
+- Foodhallen
 
 ### Super Bonus
-- Tulip Mana
+- Tulip Mania
 - Dutch East India Company things
 
 ---

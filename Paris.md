@@ -6,10 +6,8 @@
     - Crypte Acheologique (Roman Ruins)
     - Sainte Chapelle (church)
 - Catacombs
-- Lourve
+- [Lourve](Lourve-Checklist.md)
     - Royal Palace
 - Pantheon
     - Luxemburg Gardens
 
-## Lourve
-- Sully & Dennon Pavillions
