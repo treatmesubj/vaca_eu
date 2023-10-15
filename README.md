@@ -61,9 +61,9 @@
         - New Year's Market
         - Cologne Harbor X-mas Market
 - 12/14 Thursday (North)
-        - Henzel's Winter Fairytale
-        - Cologne Catherdral X-mas Market
-        - Market of Angels
+    - Henzel's Winter Fairytale
+    - Cologne Catherdral X-mas Market
+    - Market of Angels
 
 ## Amsterdam
 - 12/15 Friday
