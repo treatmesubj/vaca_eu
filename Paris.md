@@ -5,11 +5,11 @@
 - Notre Dame
     - Crypte Acheologique (Roman Ruins)
     - Sainte Chapelle (church)
+- Pantheon
+    - Luxemburg Gardens
 - Catacombs
 - [Lourve](Lourve-Checklist.md)
     - Royal Palace
     - Opera (& rooftop)
-- Pantheon
-    - Luxemburg Gardens
 
 ## Versailles
