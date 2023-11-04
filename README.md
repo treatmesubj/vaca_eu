@@ -7,7 +7,7 @@
     - Albert Cuyp Market
     - Hortus Botanicus Greenhouse
    - De Gooyer Windmill
-- 12/5 Wednesday (West) - `Anne Frank Tickets`
+- 12/6 Wednesday (West) - `Anne Frank Tickets`
     - Anne Frank House
     - 9 Streets
     - Begijnhoff Courtyard
