@@ -26,7 +26,7 @@
     - Parc du Cinquantenaire
     - Grand Place square
 - 12/8 Friday
-- [<26yo 10 Trains Card](https://www.belgiantrain.be/en/tickets-and-railcards/gopass10)
+    - [<26yo 10 Trains Card](https://www.belgiantrain.be/en/tickets-and-railcards/gopass10)
     - **Train**: `Brussels -> Ghent`; [Maps](https://www.google.com/maps/dir/Brussels,+Belgium/Ghent,+Belgium/@50.9336631,3.8690897,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!1m5!1m1!1s0x47c370e1339443ad:0x40099ab2f4d5140!2m2!1d3.7303351!2d51.0500182!2m3!6e0!7e2!8j1702026000!3e3?entry=ttu) (departs ~15min | ~45min)
     - Ghent
         - Saint Michael's Bridge
