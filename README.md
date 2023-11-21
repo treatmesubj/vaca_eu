@@ -1,7 +1,7 @@
 # vaca\_eu
 
 ## Amsterdam
-### [Hotel Park Plantage](https://www.hotelparkplantage.com/); [maps](https://maps.app.goo.gl/X9oGKMpEdV9UPUEw7)
+### [Hotel Park Plantage](https://www.hotelparkplantage.com/); [Maps](https://maps.app.goo.gl/X9oGKMpEdV9UPUEw7)
 - 12/5 Tuesday (East)
     - OBA Library rooftop coffee
     - Free Ferry over to ADAM Lookout Skydeck
@@ -17,7 +17,7 @@
     - Foodhallen
 
 ## Brussels (Bruges & Ghent)
-### [Hotel Agora](https://www.hotelagora.be/); [maps](https://maps.app.goo.gl/S8imw4MccUmb4Wtx7)
+### [Hotel Agora](https://www.hotelagora.be/); [Maps](https://maps.app.goo.gl/S8imw4MccUmb4Wtx7)
 - 12/7 Thursday
     - St Michael and St Gudula Cathedral
     - Parc de Brussels
@@ -37,7 +37,7 @@
         - Church of Our Lady
 
 ## Paris
-### [Hotel Europe St Severin](https://hoteleurope.net/en/); [maps](https://maps.app.goo.gl/43HUFcK9HKyMkpLX6)
+### [Hotel Europe St Severin](https://hoteleurope.net/en/); [Maps](https://maps.app.goo.gl/43HUFcK9HKyMkpLX6)
 - 12/9 Saturday
     - Notre Dame
         - Crypte Acheologique (Roman Ruins) - [tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission)
@@ -58,7 +58,7 @@
     - Disneyland
 
 ## Cologne
-### [Maritim Hotel Köln](https://www.maritim.com/en/hotels/germany/hotel-cologne/hotel-overview); [maps](https://maps.app.goo.gl/axRgKiChEzGFTW7v8)
+### [Maritim Hotel Köln](https://www.maritim.com/en/hotels/germany/hotel-cologne/hotel-overview); [Maps](https://maps.app.goo.gl/axRgKiChEzGFTW7v8)
 - 12/13 Wednesday (South)
     - [X-mas Markets](https://www.cologne-tourism.com/experiences-lifestyle/christmas)
         - Super X-mas Market
@@ -71,7 +71,7 @@
         - Market of Angels
 
 ## Amsterdam
-### [Hotel Park Plantage](https://www.hotelparkplantage.com/); [maps](https://maps.app.goo.gl/X9oGKMpEdV9UPUEw7)
+### [Hotel Park Plantage](https://www.hotelparkplantage.com/); [Maps](https://maps.app.goo.gl/X9oGKMpEdV9UPUEw7)
 - 12/15 Friday
     - relax
 
