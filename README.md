@@ -18,7 +18,6 @@
 
 ## Brussels (Bruges & Ghent)
 ### [Hotel Agora](https://www.hotelagora.be/); [Maps](https://maps.app.goo.gl/S8imw4MccUmb4Wtx7)
-- [<26yo 10 Trains Card](https://www.belgiantrain.be/en/tickets-and-railcards/gopass10)
 - 12/7 Thursday
     - **Train - Eurostar**: `Amsterdam -> Brussels`; [Eurostar](https://www.eurostar.com/search/uk-en?adult=2&origin=8400058&destination=8814001&outbound=2023-12-07); [Maps](https://www.google.com/maps/dir/Hotel+Park+Plantage,+Plantage+Middenlaan,+Amsterdam,+Netherlands/Hotel+Agora+Brussels+Grand+Place,+Rue+des+Eperonniers+3,+1000+Brussel+centrum,+Belgium/@51.6081863,3.3358552,8z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47c60998a773e3f5:0xa2b5108dd73edb02!2m2!1d4.9113075!2d52.3663972!1m5!1m1!1s0x47c3c38095a9caa7:0x7e864a5f438c1950!2m2!1d4.3543492!2d50.8461925!2m3!6e0!7e2!8j1701945000!3e3?entry=ttu) (departs hourly | ~2.5hrs)
     - St Michael and St Gudula Cathedral
@@ -27,6 +26,7 @@
     - Parc du Cinquantenaire
     - Grand Place square
 - 12/8 Friday
+- [<26yo 10 Trains Card](https://www.belgiantrain.be/en/tickets-and-railcards/gopass10)
     - **Train**: `Brussels -> Ghent`; [Maps](https://www.google.com/maps/dir/Brussels,+Belgium/Ghent,+Belgium/@50.9336631,3.8690897,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!1m5!1m1!1s0x47c370e1339443ad:0x40099ab2f4d5140!2m2!1d3.7303351!2d51.0500182!2m3!6e0!7e2!8j1702026000!3e3?entry=ttu) (departs ~15min | ~45min)
     - Ghent
         - Saint Michael's Bridge
