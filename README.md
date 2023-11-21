@@ -63,7 +63,7 @@
 ## Cologne
 ### [Maritim Hotel Köln](https://www.maritim.com/en/hotels/germany/hotel-cologne/hotel-overview); [Maps](https://maps.app.goo.gl/axRgKiChEzGFTW7v8)
 - 12/13 Wednesday (South)
-    - [Train: Paris -> Cologne](https://www.google.com/maps/dir/H%C3%B4tel+Europe+Saint-S%C3%A9verin,+Rue+Saint-S%C3%A9verin,+Paris,+France/Maritim+Hotel+K%C3%B6ln,+Heumarkt+20,+50667+K%C3%B6ln,+Germany/@49.7409521,4.1576293,8z/data=!3m2!4b1!5s0x47bf25b15ecbba0d:0x1f499a6c4fc661d5!4m18!4m17!1m5!1m1!1s0x47e671e09e3f1161:0x727f1bb791c932c!2m2!1d2.3443131!2d48.8527518!1m5!1m1!1s0x47bf25b156ef40df:0xaacf0eed821efed1!2m2!1d6.9612077!2d50.9354728!2m3!6e0!7e2!8j1702461600!3e3?entry=ttu) (~4.5hrs)
+    - [Eurostar Train: Paris -> Cologne](https://www.google.com/maps/dir/H%C3%B4tel+Europe+Saint-S%C3%A9verin,+Rue+Saint-S%C3%A9verin,+Paris,+France/Maritim+Hotel+K%C3%B6ln,+Heumarkt+20,+50667+K%C3%B6ln,+Germany/@49.7409521,4.1576293,8z/data=!3m2!4b1!5s0x47bf25b15ecbba0d:0x1f499a6c4fc661d5!4m18!4m17!1m5!1m1!1s0x47e671e09e3f1161:0x727f1bb791c932c!2m2!1d2.3443131!2d48.8527518!1m5!1m1!1s0x47bf25b156ef40df:0xaacf0eed821efed1!2m2!1d6.9612077!2d50.9354728!2m3!6e0!7e2!8j1702461600!3e3?entry=ttu) (~4.5hrs)
     - [X-mas Markets](https://www.cologne-tourism.com/experiences-lifestyle/christmas)
         - Super X-mas Market
         - New Year's Market
