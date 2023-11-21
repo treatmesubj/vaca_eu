@@ -8,7 +8,7 @@
     - Hortus Botanicus Greenhouse
    - De Gooyer Windmill
 - 12/6 Wednesday (West) - `Anne Frank Tickets`
-    - Anne Frank House
+    - Anne Frank House - [tickets](https://www.annefrank.org/en/museum/tickets/)
     - 9 Streets
     - Begijnhoff Courtyard
     - Rembrandtpark
@@ -37,7 +37,7 @@
 ## Paris
 - 12/9 Saturday
     - Notre Dame
-        - Crypte Acheologique (Roman Ruins) - [tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission))
+        - Crypte Acheologique (Roman Ruins) - [tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission)
         - Sainte Chapelle (church) - [tickets](https://tickets.monuments-nationaux.fr/en-GB/session-products)
     - Pantheon
         - Luxemburg Gardens
