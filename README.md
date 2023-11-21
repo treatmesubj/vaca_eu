@@ -8,7 +8,7 @@
     - Albert Cuyp Market
     - Hortus Botanicus Greenhouse
    - De Gooyer Windmill
-- 12/6 Wednesday (West) - `Anne Frank Tickets`
+- 12/6 Wednesday (West) - `Anne Frank`
     - Anne Frank House - [tickets](https://www.annefrank.org/en/museum/tickets/)
     - 9 Streets
     - Begijnhoff Courtyard
@@ -47,17 +47,17 @@
     - Pantheon
         - Luxemburg Gardens
     - Eiffel Tower
-- 12/10 Sunday - `Versailles Tickets`
+- 12/10 Sunday - `Versailles`
     - **Train**: `Hotel -> Versailles`; [Maps](https://www.google.com/maps/dir/H%C3%B4tel+Europe+Saint-S%C3%A9verin,+38-40+Rue+Saint-S%C3%A9verin,+75005+Paris,+France/Versailles+palace,+Versailles,+France/@48.8289953,2.1504306,12z/data=!3m2!4b1!5s0x47e67dbeb2a2d1cb:0xfaa83490b67c0c36!4m18!4m17!1m5!1m1!1s0x47e671e09e3f1161:0x727f1bb791c932c!2m2!1d2.3443131!2d48.8527518!1m5!1m1!1s0x47e67d94d7b14c75:0x538fcc15f59ce8f!2m2!1d2.1203554!2d48.8048649!2m3!6e1!7e2!8j1702202400!3e3?entry=ttu) (~1hr)
         - Versailles - [tickets](https://billetterie.chateauversailles.fr/passport-visite-chateau-css5-chateauversailles-lgen-pg51-ei552471.html)
-- 12/11 Monday - `Lourve Tickets`
+- 12/11 Monday - `Lourve`
     - [Lourve](Lourve-Checklist.md) - [tickets](https://www.ticketlouvre.fr/louvre/b2c/index.cfm/pmpevent/eventCode/PMP)
         - Garden
         - Royal Palace
         - Opera (& rooftop)
     - Basilica of the Sacred Heart
     - Arc de Triumph
-- 12/12 Tuesday - `Disneyland Tickets`
+- 12/12 Tuesday - `Disneyland`
     - Disneyland
 
 ## Cologne
