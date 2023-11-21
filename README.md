@@ -26,16 +26,19 @@
     - Parc du Cinquantenaire
     - Grand Place square
 - 12/8 Friday
+    - TODO **Train**: `Brussels -> Ghent`; [Maps]() (~hrs)
     - Ghent
         - Saint Michael's Bridge
         - Korenlei picturesque walk on the river
         - View Gravensteen Castle
         - Belfrey of Ghent
+    - TODO **Train**: `Ghent -> Brussels`; [Maps]() (~hrs)
     - Bruges
         - De Burg Plaza
         - Lake of Love
         - Sint-Janshuismolen
         - Church of Our Lady
+    - TODO **Train**: `Bruges -> Brussels`; [Maps]() (~hrs)
 
 ## Paris
 ### [Hotel Europe St Severin](https://hoteleurope.net/en/); [Maps](https://maps.app.goo.gl/43HUFcK9HKyMkpLX6)
