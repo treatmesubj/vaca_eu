@@ -60,7 +60,7 @@
         - Royal Palace
         - Opera (& rooftop)
     - Basilica of the Sacred Heart
-    - Arc de Triumph
+    - Arc de Triumph ($13)
 - 12/12 Tuesday - `Disneyland`
     - Disneyland
 
