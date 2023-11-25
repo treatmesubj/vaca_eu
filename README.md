@@ -46,9 +46,10 @@
 #### [Paris Museums Pass](https://www.parismuseumpass.fr/t-en/r%C3%89servation/cr%C3%89neaux-horaires); [Conditions of Access](https://static.s123-cdn-static-d.com/uploads/3086630/normal_62569f23e04a1.pdf)
 - 12/9 Saturday
     - **Train - Eurostar**: `Brussels -> Paris`; [Eurostar](https://www.eurostar.com/search/us-en?adult=2&origin=8814001&destination=8727100&outbound=2023-12-09); [Maps](https://www.google.com/maps/dir/Hotel+Agora+Brussels+Grand+Place,+Rue+des+Eperonniers,+Brussel+centrum,+Belgium/H%C3%B4tel+Europe+Saint-S%C3%A9verin,+38-40+Rue+Saint-S%C3%A9verin,+75005+Paris,+France/@49.8433734,2.0317966,8z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47c3c38095a9caa7:0x7e864a5f438c1950!2m2!1d4.3543492!2d50.8461925!1m5!1m1!1s0x47e671e09e3f1161:0x727f1bb791c932c!2m2!1d2.3443131!2d48.8527518!2m3!6e0!7e2!8j1702114200!3e3?entry=ttu) (10:13AM - 11:35AM) ✅
-    - Notre Dame
-        - Crypte Acheologique (Roman Ruins) - [tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission) ($9)
+    - Île de la Cité
         - Sainte Chapelle (church) - [tickets](https://tickets.monuments-nationaux.fr/en-GB/home) ($11.50)
+        - Notre Dame
+            - Crypte Acheologique (Roman Ruins) - [tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission) ($9)
     - Pantheon
         - Luxemburg Gardens
     - Eiffel Tower
