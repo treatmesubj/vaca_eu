@@ -9,7 +9,7 @@
     - Hortus Botanicus Greenhouse
    - De Gooyer Windmill
 - 12/6 Wednesday (West) - `Anne Frank`
-    - Anne Frank House - 4:30PM [tickets](https://www.annefrank.org/en/museum/tickets/) ✅
+    - Anne Frank House - [tickets](https://www.annefrank.org/en/museum/tickets/) (4:30PM) ✅
     - 9 Streets
     - Begijnhoff Courtyard
     - Rembrandtpark
