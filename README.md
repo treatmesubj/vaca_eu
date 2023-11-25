@@ -63,7 +63,7 @@
     - Basilica of the Sacred Heart
     - Arc de Triumph ($13)
 - 12/12 Tuesday - `Disneyland`
-    - Disneyland
+    - Disneyland - [tickets](https://www.google.com/search?client=firefox-b-1-e&q=disneyland+paris+tickets) ✅
 
 ## Cologne
 ### [Maritim Hotel Köln](https://www.maritim.com/en/hotels/germany/hotel-cologne/hotel-overview); [Maps](https://maps.app.goo.gl/axRgKiChEzGFTW7v8)
