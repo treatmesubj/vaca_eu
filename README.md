@@ -49,7 +49,7 @@
     - Île de la Cité
         - Sainte Chapelle (church) - [tickets](https://tickets.monuments-nationaux.fr/en-GB/home) ($11.50)
         - Notre Dame
-            - Crypte Acheologique (Roman Ruins) - [tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission) ($9)
+            - Crypte Acheologique (Roman Ruins) - ~~[tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission)~~ (should be able to walk right in with PMP)
     - Pantheon
         - Luxemburg Gardens
     - Eiffel Tower
