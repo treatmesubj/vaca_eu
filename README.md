@@ -49,7 +49,7 @@
     - Île de la Cité
         - Sainte Chapelle (church) - [tickets](https://tickets.monuments-nationaux.fr/en-GB/home) (PMP; 1:30PM)
         - Notre Dame
-            - Crypte Acheologique (Roman Ruins) - ~~[tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission)~~ ([should walk in w/ PMP](https://community.ricksteves.com/travel-forum/france/la-crypte-archeologique-reservation-needed)) ✅
+            - Crypte Acheologique (Roman Ruins) - ~~[tickets](https://www.crypte.paris.fr/en/visit/access-opening-times-accessibility/museum-admission)~~ ([PMP walk in](https://community.ricksteves.com/travel-forum/france/la-crypte-archeologique-reservation-needed) <5:30PM) ✅
     - Pantheon
         - Luxemburg Gardens
     - Eiffel Tower
