@@ -62,7 +62,7 @@
         - Royal Palace
         - Opera (& rooftop)
     - Basilica of the Sacred Heart
-    - Arc de Triumph ($13)
+    - Arc de Triumph ([PMP walk-in](https://community.ricksteves.com/travel-forum/france/timed-entry-arc-de-triomphe-with-paris-museum-pass); <9:45PM) ✅
 - 12/12 Tuesday - `Disneyland`
     - **Train**: `Hotel -> Disneyland`; [Maps](https://www.google.com/maps/dir/H%C3%B4tel+Europe+Saint-S%C3%A9verin,+38-40+Rue+Saint-S%C3%A9verin,+75005+Paris,+France/Disneyland+Paris,+Bd+de+Parc,+77700+Coupvray,+France/@48.9222711,2.3991976,11z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47e671e09e3f1161:0x727f1bb791c932c!2m2!1d2.3443131!2d48.8527518!1m5!1m1!1s0x47e61d19ca7ae2bd:0x57faf8cb6310e660!2m2!1d2.783593!2d48.8673858!2m3!6e0!7e2!8j1702375200!3e3?entry=ttu) (departs ~10min | ~1hr)
     - Disneyland - [tickets](https://www.google.com/search?client=firefox-b-1-e&q=disneyland+paris+tickets) ✅
