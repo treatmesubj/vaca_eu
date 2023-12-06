@@ -9,7 +9,8 @@
     - Hortus Botanicus Greenhouse
     - Proeflokaal de Molen Windmill
 - 12/6 Wednesday (West) - `Anne Frank`
-    - **Train**: Zaanse Schans Windmills
+    - **Train**: `Hotel -> Mills`; [Maps](https://maps.app.goo.gl/sBx2oFv95qPDjWNs7?g_st=ic)
+        - Zaanse Schans Windmills
     - Anne Frank House - [tickets](https://www.annefrank.org/en/museum/tickets/) (4:30PM) ✅
     - 9 Streets
     - Begijnhoff Courtyard
