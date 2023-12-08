@@ -42,6 +42,7 @@
         - Lake of Love
         - Sint-Janshuismolen
         - Church of Our Lady
+        - [Basilica of Holy Blood](https://en.m.wikipedia.org/wiki/Basilica_of_the_Holy_Blood) (Relic of the Precious Blood)
     - **Train**: `Bruges -> Brussels`; [Maps](https://www.google.com/maps/dir/Bruges,+Belgium/Brussels,+Belgium/@51.0128966,3.4573822,10z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!2m2!1d3.2247552!2d51.2091807!1m5!1m1!1s0x47c3a4ed73c76867:0xc18b3a66787302a7!2m2!1d4.3571696!2d50.8476424!2m3!6e0!7e2!8j1702065600!3e3?entry=ttu) (departs ~15min | ~1hr)
 
 ## Paris
