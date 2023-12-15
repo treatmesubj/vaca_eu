@@ -7,14 +7,14 @@
     - Free Ferry over to ADAM Lookout Skydeck
     - Albert Cuyp Market
     - Hortus Botanicus Greenhouse
-    - Proeflokaal de Molen Windmill
+    - ~~Proeflokaal de Molen Windmill~~
 - 12/6 Wednesday (West) - `Anne Frank`
     - **Train**: `Hotel -> Mills`; [Maps](https://maps.app.goo.gl/sBx2oFv95qPDjWNs7?g_st=ic)
         - Zaanse Schans Windmills
     - Anne Frank House - [tickets](https://www.annefrank.org/en/museum/tickets/) (4:30PM) ✅
     - 9 Streets
-    - Begijnhoff Courtyard
-    - Foodhallen
+    - ~~Begijnhoff Courtyard~~
+    - ~~Foodhallen~~
     - [Canal Boat Tour](https://www.thosedamboatguys.com/)
 
 ## Brussels (Bruges & Ghent)
@@ -72,18 +72,13 @@
 
 ## Cologne
 ### [Maritim Hotel Köln](https://www.maritim.com/en/hotels/germany/hotel-cologne/hotel-overview); [Maps](https://maps.app.goo.gl/axRgKiChEzGFTW7v8)
-- 12/13 Wednesday (South)
+- 12/13 Wednesday
     - **Train - Eurostar**: `Paris -> Cologne`; [Eurostar](https://www.eurostar.com/search/us-en?adult=2&origin=8727100&destination=8015458&outbound=2023-12-13); [Maps](https://www.google.com/maps/dir/H%C3%B4tel+Europe+Saint-S%C3%A9verin,+Rue+Saint-S%C3%A9verin,+Paris,+France/Maritim+Hotel+K%C3%B6ln,+Heumarkt+20,+50667+K%C3%B6ln,+Germany/@49.7409521,4.1576293,8z/data=!3m2!4b1!5s0x47bf25b15ecbba0d:0x1f499a6c4fc661d5!4m18!4m17!1m5!1m1!1s0x47e671e09e3f1161:0x727f1bb791c932c!2m2!1d2.3443131!2d48.8527518!1m5!1m1!1s0x47bf25b156ef40df:0xaacf0eed821efed1!2m2!1d6.9612077!2d50.9354728!2m3!6e0!7e2!8j1702461600!3e3?entry=ttu) (9:54AM - 1:15PM) ✅
     - Cologne Cathedral
     - [X-mas Markets](https://www.cologne-tourism.com/experiences-lifestyle/christmas)
-        - Super X-mas Market
-        - New Year's Market
-        - Cologne Harbor X-mas Market
-- 12/14 Thursday (North)
+- 12/14 Thursday
+    - [House of History - FRG](https://www.dark-tourism.com/index.php/germany/15-countries/individual-chapters/864-haus-der-geschichte-bonn) in Bonn
     - [X-mas Markets](https://www.cologne-tourism.com/experiences-lifestyle/christmas)
-        - Henzel's Winter Fairytale
-        - Cologne Catherdral X-mas Market
-        - Market of Angels
 
 ## Amsterdam
 ### [Hotel Park Plantage](https://www.hotelparkplantage.com/); [Maps](https://maps.app.goo.gl/X9oGKMpEdV9UPUEw7)
