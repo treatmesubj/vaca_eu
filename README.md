@@ -85,6 +85,6 @@
 - 12/15 Friday
     - **Train**: `Cologne -> Amsterdam`; [Maps](https://www.google.com/maps/dir/Maritim+Hotel+K%C3%B6ln,+Heumarkt,+Cologne,+Germany/Hotel+Park+Plantage,+Plantage+Middenlaan+26,+1018+DE+Amsterdam,+Netherlands/@51.6616116,5.2694169,9z/data=!4m18!4m17!1m5!1m1!1s0x47bf25b156ef40df:0xaacf0eed821efed1!2m2!1d6.9612077!2d50.9354728!1m5!1m1!1s0x47c60998a773e3f5:0xa2b5108dd73edb02!2m2!1d4.9113075!2d52.3663972!2m3!6e0!7e2!8j1702632600!3e3?entry=ttu) (departs ~20min | ~3.5hrs)
     - Museumplein (@Rijksmuseum) X-mas Market
-    - Rembrandtpark
     - Vondelpark
+    - Rembrandtpark
 
